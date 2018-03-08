@@ -35,6 +35,7 @@ hs_err_pid*
 
 # Maven 
 target/
+.mvn
 
 # Package Files #
 *.jar
